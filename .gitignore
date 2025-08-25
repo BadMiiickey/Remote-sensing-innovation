@@ -1,0 +1,8 @@
+__pycache__/
+logs/
+images/
+
+.env
+
+*.pyc
+*.log

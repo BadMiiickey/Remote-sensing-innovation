@@ -1,4 +1,4 @@
-from core.utils.type.Geometry import Geometry
+from backend.core.utils.type.data.Geometry import Geometry
 
 from dataclasses import dataclass
 

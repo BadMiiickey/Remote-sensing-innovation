@@ -1,6 +1,6 @@
-from core.utils.type.Phenomena import Phenomena
-from core.utils.type.Stats import Stats
-from core.utils.type.TimeNode import TimeNode
+from backend.core.utils.type.data.Phenomena import Phenomena
+from backend.core.utils.type.data.Stats import Stats
+from backend.core.utils.type.data.TimeNode import TimeNode
 
 from bson import ObjectId
 from dataclasses import dataclass, field

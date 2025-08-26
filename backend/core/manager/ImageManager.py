@@ -1,8 +1,8 @@
 import dataclasses
 
-from core.utils.type.Image import Image
-from core.utils.type.Stats import Stats
-from core.utils.type.TimeNode import TimeNode
+from backend.core.utils.type.data.Image import Image
+from backend.core.utils.type.data.Stats import Stats
+from backend.core.utils.type.data.TimeNode import TimeNode
 
 from typing import TYPE_CHECKING
 

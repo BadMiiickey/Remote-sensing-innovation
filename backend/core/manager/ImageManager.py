@@ -34,4 +34,5 @@ class ImageManager:
         self.db.images.insert_one(imageData)
 
         return image
+    
 

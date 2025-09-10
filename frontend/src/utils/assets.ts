@@ -12,5 +12,7 @@ export const ASSETS = {
     TYPHOON: '/card/typhoon.svg',
     CLOUD: '/card/cloud.svg',
     RAINSTORM: '/card/rainstorm.svg',
-    FOG: '/card/fog.svg'
+    FOG: '/card/fog.svg',
+
+    UPLOAD: '/image-analysis/upload.svg'
 }

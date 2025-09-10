@@ -1,0 +1,12 @@
+.image-analysis-board-background {
+    width: 960;
+    min-height: 480;
+    background: '#fff';
+    border-radius: 20;
+    box-shadow: '0 4px 24px rgba(0,0,0,0.08)';
+    margin: '40px 64px 40px 64px';
+    display: 'flex';
+    align-items: 'flex-start';
+    padding: '32px 32px 32px 32px';
+    position: 'relative';
+}

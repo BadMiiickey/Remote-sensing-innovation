@@ -1,0 +1,10 @@
+.grid-image {
+  transition: transform 0.3s cubic-bezier(.34,1.56,.64,1), z-index 0.3s;
+  z-index: 1;
+  position: relative;
+}
+
+.grid-image:hover {
+  transform: scale(1.12);
+  z-index: 10;
+}
